@@ -6,7 +6,7 @@ Web Developer
 
 I've been doing coding for the past 3 years. I initially started with c++ as my first programming language, I have worked a lot with python as well and for the previous 1.5 years i have been developing an learning web.
 
-* 🌍  I'm based in Abbottabad
+* 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [MyPortFolio](http://codewithali-port.netlify.app)
 * ✉️  You can contact me at [alikillerno@gmail.com](mailto:alikillerno@gmail.com)
 * 🚀  I'm currently working on [Pendrive](http://github.com/Ali-Raza764/pendrive)
