@@ -9,7 +9,7 @@ I've been doing coding for the past 3 years. I initially started with c++ as my 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [MyPortFolio](http://codewithali-port.netlify.app)
 * ✉️  You can contact me at [alikillerno@gmail.com](mailto:alikillerno@gmail.com)
-* 🚀  I'm currently working on [Pendrive](http://github.com/Ali-Raza764/pendrive)
+* 🚀  I'm currently working on [Chessify](https://github.com/Ali-Raza764/chess-basic-react-node)
 * 🧠  I'm learning Reactjs, Nextjs
 * 🤝  I'm open to collaborating on Web Related Topics
 * ⚡  Self Learner
