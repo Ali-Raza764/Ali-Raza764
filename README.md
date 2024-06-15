@@ -40,3 +40,4 @@ I've been doing coding for the past 3 years. I initially started with c++ as my 
 
 ![Views: ](https://komarev.com/ghpvc/?username=Ali-Raza764)
 
+![](https://hit.yhype.me/github/profile?user_id=118099780)
